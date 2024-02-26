@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Enrique Ruiz Restrepo</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 
-https://img.shields.io/badge/Linkedin-leruizres1986?style=flat&logo=linkedin&logoColor=blue&labelColor=white&color=gray&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleruizres1986
-
+[![LinkedIn](https://img.shields.io/badge/Linkedin-leruizres1986?style=flat&logo=linkedin&logoColor=blue&labelColor=white&color=gray)](https://www.linkedin.com/in/leruizres1986)
 
 - 🔭 I’m currently working as an **Intern at Sophos Solutions**
 
