@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Enrique Ruiz Restrepo</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 
-![Nombre_Descriptivo](https://img.shields.io/badge/:badgeContent)
+<img src="https://img.shields.io/badge/leruizr--%20software%20developer?logo=github&logoColor=black" />
+
 
 
 - 🔭 I’m currently working as an **Intern at Sophos Solutions**
