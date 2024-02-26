@@ -11,9 +11,8 @@
 - 📫 How to reach me: **leruizres1986@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-leruizres1986?style=flat&logo=linkedin&logoColor=blue&labelColor=white&color=gray)](https://www.linkedin.com/in/leruizres1986)
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leruizres1986?style=flat&logo=linkedin&logoColor=blue&labelColor=white&color=gray)](https://www.linkedin.com/in/leruizres1986)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
