@@ -30,3 +30,8 @@
 </p>
 
 ![leruizr's Stats](https://github-readme-stats.vercel.app/api?username=leruizr&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leruizr&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="leruizr's Stats" />
+</p>
+
