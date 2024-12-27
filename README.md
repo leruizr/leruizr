@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as an **Intern at Sophos Solutions**
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **Google Cloud Platform**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -14,7 +14,6 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-leruizres1986?style=flat&logo=linkedin&logoColor=blue&labelColor=white&color=gray&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleruizres1986)
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
@@ -22,9 +21,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leruizr&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="leruizr's Stats" />
 </p>
-
