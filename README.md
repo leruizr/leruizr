@@ -1,31 +1,112 @@
-<h1 align="center">Hi 👋, I'm Luis Enrique Ruiz Restrepo</h1>
+# 👋 Hello! I'm Luis Enrique Ruiz Restrepo
 
-<h3 align="center">A passionate software developer from Colombia</h3>
+<div align="center">
+  
+  ### 🚀 Junior Software Developer | Passionate about Technology Innovation
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer+from+Colombia;Always+learning+new+technologies;Building+scalable+solutions;Open+Source+enthusiast)
+  
+  📍 **Colombia** | 💼 **Junior Software Developer at Melborp**
+  
+</div>
 
-- 🔭 I’m currently working as an **Intern at Sophos Solutions**
+---
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+## 🎯 About Me
 
-- 👯 I’m looking to collaborate on **open source projects**
+🔥 Junior software developer passionate about creating innovative and scalable solutions. Currently part of the **Melborp** team, where I contribute to developing robust applications while continuing to expand my knowledge in cloud technologies.
 
-- 📫 How to reach me: **leruizres1986@gmail.com**
+- 💻 **Current Role:** Junior Software Developer at **Melborp**
+- 🌱 **Learning:** Google Cloud Platform & Cloud Architectures
+- 🔍 **Looking for:** Opportunities to collaborate on open source projects
+- 🎯 **Goal:** Specialize in full-stack development and cloud computing
+- ⚡ **Fun fact:** I love automating processes with n8n
 
-<h3 align="left">Connect with me:</h3>
+---
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-leruizres1986?style=flat&logo=linkedin&logoColor=blue&labelColor=white&color=gray&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleruizres1986)
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leruizr&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="leruizr's Stats" />
+### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="45" height="45"/>
 </p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+</p>
+
+### 🔧 Automation Tools
+<p align="left">
+  <img src="https://docs.n8n.io/favicon.ico" alt="n8n" width="45" height="45"/> 
+  <span style="font-size: 14px; margin-left: 10px;"><strong>n8n</strong> - Workflow Automation</span>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=leruizr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=leruizr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leruizr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+### 📈 Detailed Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leruizr&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leruizr&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leruizr&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leruizr&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leruizr&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leruizres1986)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leruizres1986@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leruizr)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 "The best way to predict the future is to invent it" - Alan Kay
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=leruizr&label=Profile+Views&color=36BCF7&style=flat)
+  
+  ⭐ **Don't forget to star the repositories you like!** ⭐
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
