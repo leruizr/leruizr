@@ -4,7 +4,6 @@
   
   ### 🚀 Junior Software Developer | Passionate about Technology Innovation
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer+from+Colombia;Always+learning+new+technologies;Building+scalable+solutions;Open+Source+enthusiast)
   
   📍 **Colombia** | 💼 **Junior Software Developer at Melborp**
   
